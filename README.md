@@ -129,12 +129,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 
 ---
 
-```
+
 
 ### Key Points:
-1. **Order of Images**: The images are referenced in the order they were provided (`1.jpg`, `2.jpg`, `3.jpg`, `4.jpg`).
-2. **Model Performance**: The README highlights the best-performing models (Random Forest and XGBoost) and their MSE scores.
-3. **Visualization**: The graphs are linked to the corresponding models for easy reference.
-4. **Usage Instructions**: Clear steps are provided for running the project.
+1. **Model Performance**: The README highlights the best-performing models (Random Forest and XGBoost) and their MSE scores.
+2. **Visualization**: The graphs are linked to the corresponding models for easy reference.
+3. **Usage Instructions**: Clear steps are provided for running the project.
 
-Let me know if you need further adjustments! 😊
