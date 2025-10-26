@@ -1,4 +1,4 @@
-
+<img width="100" height="70" alt="upwork" align="right" src="https://github.com/user-attachments/assets/bcf8a252-69a7-4a38-bddf-f26797b0983b" />
 
 # Market Prices Prediction Using Regression Models
 
