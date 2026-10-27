@@ -134,6 +134,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 2. **Visualization**: The graphs are linked to the corresponding models for easy reference.
 3. **Usage Instructions**: Clear steps are provided for running the project.
 
-<img width="100" height="100" alt="Upwork" src="https://github.com/user-attachments/assets/bc39e304-56ee-41a3-be6a-c8e7c6c9cc8e" />
+<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
 
 
