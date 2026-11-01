@@ -133,7 +133,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 1. **Model Performance**: The README highlights the best-performing models (Random Forest and XGBoost) and their MSE scores.
 2. **Visualization**: The graphs are linked to the corresponding models for easy reference.
 3. **Usage Instructions**: Clear steps are provided for running the project.
-
-<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
-
-
